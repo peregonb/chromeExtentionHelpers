@@ -1,0 +1,13 @@
+.wrapper > fieldset{
+  display: flex;
+}
+
+.price {
+  font-size: 2em !important;
+  height: 2em;
+  line-height: 1;
+}
+
+html, body {
+  overflow-x: hidden;
+}
